@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AbrilSchz/AbrilSchz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Proxima Ing en sistemas**
+:pencil: **Estudiante**
+:eyeglasses: **Underdogs**
+:oncoming_automobile: **Autos clasicos**
+:family: **Amada hija**
 
-Here are some ideas to get you started:
+### Vías de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAbrilSchz%2FAbrilSchz%23&up_message=AbrilSchz&up_color=grey&down_message=up&down_color=blue&style=flat&logoColor=blue&color=blue)
+
+### Gustos musicales
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Ftidal.com%2Fbrowse%2Fartist%2F6277600&up_message=charles%20ans&up_color=grey&down_message=up&down_color=blue&style=flat&logoColor=blue&color=blue)
